@@ -1,7 +1,7 @@
 **Introducing TAPS: A New Paradigm in Wallet Security, and Birb Wallet: Its Premier Implementation**
 
 **The Challenge:** 
-The existing wallet systems fall short in offering users the pinnacle of security. While the Three Address Protocol (TAP) is a step forward, it lacks a genuine cold vault, leaving many NFT enthusiasts vulnerable. (https://x.com/punk6529/status/1701623475725533524?s=20)
+The existing wallet systems fall short in offering users the pinnacle of security. While the [Three Address Protocol (TAP)](https://x.com/punk6529/status/1701623475725533524?s=20) is a step forward, it lacks a genuine cold vault, leaving many NFT enthusiasts vulnerable.
 
 **The Solution:** 
 I present the **TAPS (Tetrad Address Protocol with Social)**. This protocol introduces four distinct wallets:
@@ -57,18 +57,20 @@ In the spirit of fostering a safer web3 environment for all, this solution will 
 
 Upon opening the wallet, you're instantly presented with a dropdown menu showcasing your "wallet accounts." Each account represents a set of four wallets. The interface prominently features the two primary actions: vaulting and unvaulting.
 
-
+![Home](home.png)
 
 
 When you choose "vaulting," you're presented with the five essential combinations, streamlined for clarity and security:
 
+![Vaulting](vaulting.png)
 
 On selecting "unvaulting," you'll see the three crucial options, eliminating unnecessary complexities:
 
+![Unvaulting](unvaulting.png)
 
 When attempting to connect to a website, the system will internally route the assets to their designated locations. While you'll be prompted with clear permissions to approve throughout the process, on the user interface, you'll be presented with the following view:
 
-
+![connectPopup](connectPopup.png)
 
 
 
